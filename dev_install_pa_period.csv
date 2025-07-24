@@ -1,0 +1,5 @@
+"installment_payment_option_period_id","period","min_price","max_price","active"
+"99ae432c-7131-4111-9213-07a1e87dca34",3,"10000.00","2000000.00",True
+"4f5640ad-a119-4274-adab-1c812384db04",6,"10000.00","2000000.00",True
+"3fa5b761-a761-4776-81b9-485f9ea0239d",12,"10000.00","2000000.00",True
+"66c76a32-2b9c-4ef3-b381-b2f262087de0",24,"10000.00","2000000.00",True
